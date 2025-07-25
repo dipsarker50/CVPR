@@ -1,1 +1,0 @@
-#CVPR Course Mid Folder
